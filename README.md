@@ -24,7 +24,7 @@ Assumptions:
 - 4-6 x 18650 battery power backup; now batteries are just in parallel to main power supply 15V
 - setting on three potentiometers: 
 
-   a) frequency 10-20 breath/min. Set to minimum to activate automatic assist mode with pressure trigger 
+   a) frequency 10-20 breath/min. Set to minimum swith from CMV mode to automatic assist mode (SIMV-PC) with pressure trigger 
 
    b) volume of single breath [mL] 
 
