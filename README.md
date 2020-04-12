@@ -44,6 +44,8 @@ Parameters can be set (display) only before start. Control pannel is locked duri
 After activation, in the display there is a pressure history of the very last cycle. Full scale on vertical axis - 60cmH20.
 To stop, START/STOP button has to be pressed for at least 2s. 
 
+Approximate cost of components: 100USD 
+
 Data to create copy:
 
 STP file (in STEP format) contains complete assembly.
