@@ -1,0 +1,9 @@
+ToDO:
+
+1. Battery Management System (BMS) and software control of battery state
+
+2. Heater to increase temperature and humidity of inspired air (jar next to main case)
+
+3. Transmition of alarms outside - louder audio or wire/wifi/bluetooth transmision
+
+4. TESTS!!!
