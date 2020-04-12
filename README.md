@@ -2,9 +2,9 @@ Welcome to the respiArt!
 
 respiArt - extremely simply and cheap ventilator with advanced automatic modes.  
 
-Current state and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
+Current state (v4) and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
 
-General view of drive: https://www.youtube.com/watch?v=JRJ65TWT_jk
+General view of drive system working: https://www.youtube.com/watch?v=JRJ65TWT_jk
 
 
 On the board:
