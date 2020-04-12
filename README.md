@@ -6,7 +6,10 @@ Current state and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
 
 General view of drive: https://www.youtube.com/watch?v=JRJ65TWT_jk
 
-CMV – Continous Mandatory Ventilation SIMV-PC – Synchronized Intermittent Mandatory Ventilation – Pressure Controlled PRVC – Pressure Regulated Volume Controlled
+On the board:
+CMV – Continous Mandatory Ventilation 
+SIMV-PC – Synchronized Intermittent Mandatory Ventilation – Pressure Controlled 
+PRVC – Pressure Regulated Volume Controlled
 
 Assumptions:
 - very simply mechanics with AMBU bag. AMBU provides valves and mixture with oxygen
