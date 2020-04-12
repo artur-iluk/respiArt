@@ -6,7 +6,9 @@ Current state and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
 
 General view of drive: https://www.youtube.com/watch?v=JRJ65TWT_jk
 
+
 On the board:
+
 CMV – Continous Mandatory Ventilation
 
 SIMV-PC – Synchronized Intermittent Mandatory Ventilation – Pressure Controlled 
