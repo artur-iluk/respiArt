@@ -32,3 +32,7 @@ Assumptions:
    c) set pressure is not achieved during cycle for set volume - due to lack of resistance
 
 Parameters and pressure history displayed on the small OLED display
+
+STP file (in STEP format) contains complete assembly.
+
+Software for adruino nano attached.
