@@ -19,4 +19,5 @@ Assumptions:
    a) in assist mode - trigger not activated. Then mandatory breath is triggered 
    b) set volume not achieved - due to set cycle time and set pressure limit; inspiration is stopped go to expiration phase. 
    c) set pressure is not achieved during cycle for set volume - due to lack of resistance
+
 Parameters and pressure history displayed on the small OLED display
