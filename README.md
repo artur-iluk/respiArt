@@ -1,6 +1,9 @@
 Welcome to the respiArt!
 
-respiArt - extremely simply and cheap ventilator with advanced automatic modes.  Current state and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
+respiArt - extremely simply and cheap ventilator with advanced automatic modes.  
+
+Current state and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
+General view of drive: https://www.youtube.com/watch?v=JRJ65TWT_jk
 
 CMV – Continous Mandatory Ventilation SIMV-PC – Synchronized Intermittent Mandatory Ventilation – Pressure Controlled PRVC – Pressure Regulated Volume Controlled
 
