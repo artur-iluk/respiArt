@@ -6,6 +6,8 @@ Current state (v4) and functions: https://www.youtube.com/watch?v=BUc_lD-wEiQ
 
 General view of drive system working: https://www.youtube.com/watch?v=JRJ65TWT_jk
 
+2-hours test of operation: https://www.youtube.com/watch?v=-4g5cEmwWdk
+
 
 On the board:
 
